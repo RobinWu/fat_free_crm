@@ -73,9 +73,9 @@ group :test do
   # end
 end
 
-group :heroku do
-  gem 'unicorn', :platform => :ruby
-end
+# group :heroku do
+#   gem 'unicorn', :platform => :ruby
+# end
 
 
 # Gems used only for assets and not required
