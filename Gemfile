@@ -89,3 +89,4 @@ group :assets do
 end
 
 gem 'turbo-sprockets-rails3'
+gem "authlogic", "2.1.1"
